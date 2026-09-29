@@ -1,0 +1,6 @@
+{
+  "name": "OpsMind AI - Autonomous SRE & Hindsight Vector Memory",
+  "description": "Continuous incident auto-triage and neural memory agent powered by Hindsight vector storage and ultra-low latency AI inference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
